@@ -1,2 +1,2 @@
 # simple_api
-A simple API made with FastAPI
+A simple API with CRUD functionality made with FastAPI
